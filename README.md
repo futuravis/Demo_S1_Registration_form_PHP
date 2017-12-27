@@ -1,6 +1,6 @@
 # Demo_S1_Registration_form_PHP
 
-# Title:
+# Title: Registration Form with basic operations
 Created a registration form using PHP, JS and mysql.
 Handled the following DB operations:
 1. Registering the User - Insert record.
